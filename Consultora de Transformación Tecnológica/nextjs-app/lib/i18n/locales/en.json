@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Business with AI Automation",
+    "subtitle": "Empowering SMEs to compete in the digital age through intelligent automation and cutting-edge AI solutions",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive AI solutions tailored for small and medium enterprises",
+    "training": {
+      "title": "AI Training & Education",
+      "description": "Comprehensive training programs to help your team understand and leverage AI technologies effectively."
+    },
+    "automation": {
+      "title": "Process Automation",
+      "description": "Automate repetitive tasks and workflows to increase efficiency, reduce costs, and free up your team for strategic work."
+    },
+    "custom": {
+      "title": "Custom AI Solutions",
+      "description": "Tailored AI applications designed specifically for your business needs, from chatbots to predictive analytics."
+    }
+  },
+  "benefits": {
+    "title": "Why Choose AI for Your Business?",
+    "subtitle": "Stay ahead of the competition with intelligent automation",
+    "automation": {
+      "title": "Automate Repetitive Tasks",
+      "description": "Free up your team to focus on strategic initiatives and creative problem-solving."
+    },
+    "insights": {
+      "title": "Data-Driven Insights",
+      "description": "Make informed decisions based on real-time analytics and predictive modeling."
+    },
+    "experience": {
+      "title": "Enhanced Customer Experience",
+      "description": "Deliver personalized interactions and faster response times to improve customer satisfaction."
+    },
+    "costs": {
+      "title": "Reduce Operational Costs",
+      "description": "Optimize operations and eliminate inefficiencies to maximize your ROI."
+    },
+    "competitive": {
+      "title": "Competitive Advantage",
+      "description": "Leverage cutting-edge technology to stay ahead in your industry."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted partner in digital transformation",
+    "description": "We specialize in helping small and medium enterprises harness the power of artificial intelligence. With years of experience in AI implementation and process automation, we understand the unique challenges SMEs face and provide tailored solutions that deliver measurable results.",
+    "expertise": "Our Expertise",
+    "experience": "Years of Experience",
+    "projects": "Successful Projects",
+    "clients": "Satisfied Clients"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to transform your business? Let's discuss how AI can help you achieve your goals.",
+    "form": {
+      "name": "Full Name",
+      "company": "Company Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "industry": "Industry",
+      "serviceType": "Service Type",
+      "servicePlaceholder": "Select a service",
+      "projectDescription": "Project Description",
+      "budgetRange": "Expected Budget Range (Optional)",
+      "budgetPlaceholder": "Select budget range",
+      "submit": "Request Quote",
+      "submitting": "Submitting...",
+      "success": "Thank you! We'll contact you within 24-48 hours.",
+      "error": "An error occurred. Please try again."
+    },
+    "serviceTypes": {
+      "training": "AI Training & Education",
+      "automation": "Process Automation",
+      "custom": "Custom AI Solutions"
+    },
+    "budgetRanges": {
+      "under10k": "Under $10,000",
+      "10k-25k": "$10,000 - $25,000",
+      "25k-50k": "$25,000 - $50,000",
+      "50k-100k": "$50,000 - $100,000",
+      "over100k": "Over $100,000"
+    }
+  },
+  "chatbot": {
+    "title": "Chat with us",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "minimize": "Minimize",
+    "close": "Close",
+    "welcome": "Hello! How can I help you today?",
+    "emailPrompt": "Please provide your email to continue:",
+    "emailPlaceholder": "your.email@example.com",
+    "emailSubmit": "Submit",
+    "emailInvalid": "Please enter a valid email address"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

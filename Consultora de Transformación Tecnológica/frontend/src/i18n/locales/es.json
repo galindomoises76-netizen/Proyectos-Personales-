@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Transforma Tu Negocio con Automatización IA",
+    "subtitle": "Empoderando a las PYMES para competir en la era digital a través de automatización inteligente y soluciones de IA de vanguardia",
+    "cta": "Comenzar",
+    "learnMore": "Saber Más"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones de IA integrales adaptadas para pequeñas y medianas empresas",
+    "training": {
+      "title": "Capacitación y Educación en IA",
+      "description": "Programas de capacitación integrales para ayudar a tu equipo a comprender y aprovechar las tecnologías de IA de manera efectiva."
+    },
+    "automation": {
+      "title": "Automatización de Procesos",
+      "description": "Automatiza tareas repetitivas y flujos de trabajo para aumentar la eficiencia, reducir costos y liberar a tu equipo para trabajo estratégico."
+    },
+    "custom": {
+      "title": "Soluciones de IA Personalizadas",
+      "description": "Aplicaciones de IA diseñadas específicamente para las necesidades de tu negocio, desde chatbots hasta análisis predictivo."
+    }
+  },
+  "benefits": {
+    "title": "¿Por Qué Elegir IA para Tu Negocio?",
+    "subtitle": "Mantente a la vanguardia de la competencia con automatización inteligente",
+    "automation": {
+      "title": "Automatiza Tareas Repetitivas",
+      "description": "Libera a tu equipo para enfocarse en iniciativas estratégicas y resolución creativa de problemas."
+    },
+    "insights": {
+      "title": "Insights Basados en Datos",
+      "description": "Toma decisiones informadas basadas en análisis en tiempo real y modelado predictivo."
+    },
+    "experience": {
+      "title": "Experiencia del Cliente Mejorada",
+      "description": "Ofrece interacciones personalizadas y tiempos de respuesta más rápidos para mejorar la satisfacción del cliente."
+    },
+    "costs": {
+      "title": "Reduce Costos Operativos",
+      "description": "Optimiza operaciones y elimina ineficiencias para maximizar tu ROI."
+    },
+    "competitive": {
+      "title": "Ventaja Competitiva",
+      "description": "Aprovecha la tecnología de vanguardia para mantenerte a la vanguardia en tu industria."
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Tu socio de confianza en transformación digital",
+    "description": "Nos especializamos en ayudar a pequeñas y medianas empresas a aprovechar el poder de la inteligencia artificial. Con años de experiencia en implementación de IA y automatización de procesos, entendemos los desafíos únicos que enfrentan las PYMES y proporcionamos soluciones personalizadas que ofrecen resultados medibles.",
+    "expertise": "Nuestra Experiencia",
+    "experience": "Años de Experiencia",
+    "projects": "Proyectos Exitosos",
+    "clients": "Clientes Satisfechos"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Listo para transformar tu negocio? Hablemos sobre cómo la IA puede ayudarte a alcanzar tus objetivos.",
+    "form": {
+      "name": "Nombre Completo",
+      "company": "Nombre de la Empresa",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "industry": "Industria",
+      "serviceType": "Tipo de Servicio",
+      "servicePlaceholder": "Selecciona un servicio",
+      "projectDescription": "Descripción del Proyecto",
+      "budgetRange": "Rango de Presupuesto Esperado (Opcional)",
+      "budgetPlaceholder": "Selecciona rango de presupuesto",
+      "submit": "Solicitar Cotización",
+      "submitting": "Enviando...",
+      "success": "¡Gracias! Te contactaremos en 24-48 horas.",
+      "error": "Ocurrió un error. Por favor intenta de nuevo."
+    },
+    "serviceTypes": {
+      "training": "Capacitación y Educación en IA",
+      "automation": "Automatización de Procesos",
+      "custom": "Soluciones de IA Personalizadas"
+    },
+    "budgetRanges": {
+      "under10k": "Menos de $10,000",
+      "10k-25k": "$10,000 - $25,000",
+      "25k-50k": "$25,000 - $50,000",
+      "50k-100k": "$50,000 - $100,000",
+      "over100k": "Más de $100,000"
+    }
+  },
+  "chatbot": {
+    "title": "Chatea con nosotros",
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar",
+    "minimize": "Minimizar",
+    "close": "Cerrar",
+    "welcome": "¡Hola! ¿Cómo puedo ayudarte hoy?",
+    "emailPrompt": "Por favor proporciona tu correo para continuar:",
+    "emailPlaceholder": "tu.correo@ejemplo.com",
+    "emailSubmit": "Enviar",
+    "emailInvalid": "Por favor ingresa un correo electrónico válido"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

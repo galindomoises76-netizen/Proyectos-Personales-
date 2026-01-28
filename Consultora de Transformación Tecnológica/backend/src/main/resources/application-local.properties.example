@@ -1,0 +1,12 @@
+# Copy this file to application-local.properties and configure for your local environment
+
+# Email Configuration
+spring.mail.username=your-email@gmail.com
+spring.mail.password=your-app-password
+admin.email=admin@aiconsultancy.com
+
+# PostgreSQL Configuration (if using PostgreSQL instead of H2)
+# spring.datasource.url=jdbc:postgresql://localhost:5432/consultancydb
+# spring.datasource.username=your_username
+# spring.datasource.password=your_password
+# spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
